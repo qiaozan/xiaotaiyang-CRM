@@ -28,9 +28,7 @@
 
 政府/金融/制造等行业的合规性数据管理
 
-<a href="https://qiaot653-bit/products/-CRM">
-    <img src=".github/PC端~首页.png" height="80" alt="Frappe -CRM Logo">
-</a>
+    <img src="pc-index.png" height="80" alt="xiaotaiyangcrm">
 
 
 
