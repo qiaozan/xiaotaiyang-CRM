@@ -27,8 +27,7 @@
 企业内部客户资源管理
 
 政府/金融/制造等行业的合规性数据管理
-
-[![img](https://github.com/qiaozan/xiaotaiyang-CRM/blob/main/PC-auth.png)](./pc-index.png)
+[![img](https://github.com/qiaozan/xiaotaiyang-CRM/blob/main/PC-auth.png?raw=true)](https://www.xty123.cn)
 
 
 
