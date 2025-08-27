@@ -28,7 +28,7 @@
 
 政府/金融/制造等行业的合规性数据管理
 
-[![img](https://github.com/qiaozan/xiaotaiyang-CRM/blob/main/PC-auth.png)]
+[![img](https://github.com/qiaozan/xiaotaiyang-CRM/blob/main/PC-auth.png)](./pc-index.png)
 
 
 
