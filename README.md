@@ -27,10 +27,8 @@
 企业内部客户资源管理
 
 政府/金融/制造等行业的合规性数据管理
-<a href="#">
-<img src="pc-index.png" height="80" alt="xiaotaiyangcrm">
-</a>
 
+[![img](./pc-index.png)](./pc-index.png)
 
 
 
