@@ -28,6 +28,7 @@
 
 政府/金融/制造等行业的合规性数据管理
 [![img](https://github.com/qiaozan/xiaotaiyang-CRM/blob/main/PC-auth.png?raw=true)](https://www.xty123.cn)
+<a href="https://www.xty123.cn" target="_blank">![img](https://github.com/qiaozan/xiaotaiyang-CRM/blob/main/PC-customer.png?raw=true)</a>
 
 
 
